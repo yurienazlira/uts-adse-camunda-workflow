@@ -1,0 +1,13 @@
+package com.adse.uts.workflow;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class WorkflowProposalApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
